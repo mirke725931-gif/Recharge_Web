@@ -14,9 +14,9 @@ Spring Boot REST API와 Oracle DB를 연동하여
 
 ● 개발 기간
 
-20XX.XX ~ 20XX.XX (약 X주)
+3주
 
-팀 프로젝트 (n명)
+팀 프로젝트 (4명)
 
 ● 사용 기술 스택
 
